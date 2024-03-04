@@ -25,14 +25,14 @@ This Python project leverages web scraping and browser automation techniques to 
 **Instructions**
 
 1.  **Install Dependencies:** 
-    ```bash
     pip install requests beautifulsoup4 selenium webdriver_manager csv
-    ```
-2.  **Download WebDriver:**  Ensure you have a WebDriver (e.g., ChromeDriver) installed and placed in your PATH or accessible to the script.
-3.  **Run the Script:**
-    ```bash
+
+    
+3.  **Download WebDriver:**  Ensure you have a WebDriver (e.g., ChromeDriver) installed and placed in your PATH or accessible to the script.
+4.  **Run the Script:**
+    
     python scraping_web.py
-    ```
+    
 
 **Data Structure (raymond_weil_project.csv)**
 
