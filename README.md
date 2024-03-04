@@ -11,8 +11,8 @@ This Python project leverages web scraping and browser automation techniques to 
 
 1.  **Dynamic Loading:**  Employs Selenium to open the website, handle cookie consent interactions, and scroll the pages, triggering the loading of all product listings.
 2.  **Initial Scraping:**  Parses the initial HTML source with BeautifulSoup to gather basic product information (title, product link).
-3.  **Detailed Extraction:**  Utilizes `requests` to fetch individual product pages and BeautifulSoup to scrape in-depth specifications, descriptions, and other attributes.
-4.  **CSV Export:**  Organizes collected data into a well-structured CSV file (`raymond_weil_project.csv`).
+3.  **Detailed Extraction:**  Utilizes requests to fetch individual product pages and BeautifulSoup to scrape in-depth specifications, descriptions, and other attributes.
+4.  **CSV Export:**  Organizes collected data into a well-structured CSV file ("raymond_weil_project.csv").
 
 **Dependencies**
 
